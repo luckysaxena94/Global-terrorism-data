@@ -1,1 +1,3 @@
 # Global-terrorism-data
+
+The "Exploring and Analyzing Global Terrorism Trends" project delves into the vast and comprehensive Global Terrorism Database (GTD) spanning from 1970 to 2017. This open-source repository, meticulously curated by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland, contains a staggering record of over 180,000 terrorist incidents worldwide. The project's primary objective is to extract invaluable insights, patterns, and trends from this extensive dataset to enhance our understanding of global terrorism and contribute to better counter-terrorism strategies.
